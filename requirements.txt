@@ -1,0 +1,15 @@
+# Core scientific stack
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+Pillow
+imagehash
+tqdm
+
+# Deep learning / vision
+torch
+torchvision
+transformers>=4.45,<5
+peft==0.13.0
