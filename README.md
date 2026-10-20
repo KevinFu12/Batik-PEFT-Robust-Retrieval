@@ -1,7 +1,5 @@
 # Batik Research Pipeline — Research-question organization
 
-This project reorganizes `batik-peft-thesis (1).ipynb` around the research questions and experimental purpose, rather than notebook version numbers.
-
 ## Research questions and stages
 
 | Stage | Research focus | Script |
